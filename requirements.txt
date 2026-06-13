@@ -1,0 +1,5 @@
+groq>=0.13.0
+requests>=2.32.0
+slack_sdk>=3.31.0
+python-dotenv>=1.0.1
+reportlab>=4.2.0
